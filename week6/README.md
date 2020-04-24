@@ -1,4 +1,4 @@
-[gitee](https://github.com/SuThomas/data-mining/tree/master/week6)
+[github](https://github.com/SuThomas/data-mining/tree/master/week6)
 1. 项目名称:热门公司、行业及薪资数据需求分析
 2. 数据加值宣言：本项目产出按城市、行业及薪资挖掘的关于各热门行业和公司工作的数据，以解决NPS就业需求及特性的就业分析问题
 3. 
